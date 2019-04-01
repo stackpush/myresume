@@ -1,0 +1,194 @@
+* {margin: 0;padding: 0;}
+
+body{font-family: 'Montserrat', sans-serif;}
+
+#page {
+    min-height: 200px;
+    width: 60%;
+    min-width: 600px;
+    background: whitesmoke;
+    margin: 50px auto;
+    padding: 30px;
+    color: #27aae1;
+}
+
+
+.photo {
+    width: 20%;
+    min-width: 150px;
+    float: left;
+    margin-right: 20px;
+    width: 180px;
+    height: 200px;
+
+
+}
+.phone {
+    width: 5%;
+    min-width: 15px;
+    float: middle;
+    margin-right: 5px;
+    margin-bottom: 0.1px;
+
+  }
+
+
+.contact-info-box {
+    width: 70.9%;
+    display: inline-block;
+}
+
+.name {
+    margin-bottom: -5px;
+}
+
+.contact-details {
+    background: #27aae1;
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 2px;
+    padding: 5px;
+    font-size: 15px;
+    margin-bottom: 20px;
+
+}
+
+
+
+
+
+
+#education h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 60px 0 10px;
+}
+
+#education table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#education table tr.school-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 1px;
+}
+
+#education table tr.school-1 td:first-child {
+    padding-bottom: 25px;
+}
+
+#work h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#work table td {
+    padding: 5px;
+    font-size: 14px;
+    color: #000;
+}
+
+#work table tr.work-1 td:first-child {
+    width: 120px;
+    color: gray;
+    padding-bottom: 25px;
+}
+
+#work table tr.work-1 td {
+    padding-bottom: 25px;
+}
+
+#work table tr.work-2 td:first-child {
+    width: 120px;
+    color: gray;
+}
+
+#work table tr.work3 td:first-child {
+  width: 120px;
+  color: gray;
+}
+
+#work table tr.work4 td:first-child {
+  width: 120px;
+  color: gray;
+}
+
+#Skills h3 {
+    border: 1px solid #d3d3d3;
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 30px 0 10px;
+}
+
+#Skills table td {
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+}
+
+#Skills table tr td:first-child {
+    width: 200px;
+}
+
+#Skills table tr td:nth-child(2) {
+    width: 300px;
+}
+#Awards h3{
+  border: 1px solid #d3d3d3;
+  text-transform:uppercase;
+  padding: 5px;
+  border-radius: 5px;
+  margin:30px 0 10px:}
+
+  #Awards table td {
+      padding: 8px;
+      font-size: 15px;
+      color: #000;
+  }
+
+  #Awards table tr td:first-child {
+      width: 200px;
+  }
+
+  #Awards table tr td:nth-child(2) {
+      width: 300px;
+  }
+
+  #Awards table tr td:first-child {
+    width: 120px;
+    color: gray;
+  }
+  #projects h3{
+    border: 1px solid #d3d3d3;
+    text-transform:uppercase;
+    padding: 5px;
+    border-radius: 5px;
+    margin:30px 0 10px:
+  }
+
+  #projects table td{
+    padding: 8px;
+    font-size: 15px;
+    color: #000;
+  }
+  #projects table tr td:first-child{
+    width:200px;}
+
+  }
+
+
+  }
+  }
+
+
+}
